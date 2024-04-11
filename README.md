@@ -1,5 +1,7 @@
 Pizza_Resturant_Project
-#The project involves creating a tailor-made relational database for a new pizzeria. The project utilizes tools such as Excel for data organization, Quick Database Diagrams for database design, and SQL for creating and managing the database. Additionally, Looker Studio is used for data visualization and is integrated with Google Cloud Console for secure and scalable data storage and processing.
+
+
+The project involves creating a tailor-made relational database for a new pizzeria. The project utilizes tools such as Excel for data organization, Quick Database Diagrams for database design, and SQL for creating and managing the database. Additionally, Looker Studio is used for data visualization and is integrated with Google Cloud Console for secure and scalable data storage and processing.
 
 
 SITUATION
